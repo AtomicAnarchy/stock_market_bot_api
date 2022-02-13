@@ -51,4 +51,4 @@ if __name__ == '__main__':
     t.submit_order(1)
 
 
-##In case you're wondering if you stumble upon this project again, future me. The first 5 investments were just experimental tests. That is why I decided to buy 3 shares of apple lol.
+##In case you're wondering if you stumble upon this project. The first 5 investments were just experimental tests. That is why I decided to buy 3 shares of apple lmao.
